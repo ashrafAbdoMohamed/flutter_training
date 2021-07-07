@@ -1,6 +1,6 @@
 # flutter_internship
 
-A new Flutter project.
+This project contains page number 11 in Sha7enTech application.
 
 ## Getting Started
 
